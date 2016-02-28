@@ -13,3 +13,9 @@
 
 **2.作业二：Charles抓包，如下截图是抓取大众点评app首页打开**
 ![Charles抓包](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/charles.jpg)
+
+**3.作业三：安装Charles的ios设备的ssl证书**
+
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0926.PNG" width="250px" height="450px" />
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0925.PNG" width="250px" height="450px" />
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0927.PNG" width="250px" height="450px" />
