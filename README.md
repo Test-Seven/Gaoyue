@@ -16,6 +16,7 @@
 
 **3.作业三：安装Charles的ios设备的ssl证书**
 
-<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0926.PNG" width="250px" height="450px" />
-<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0925.PNG" width="250px" height="450px" />
-<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0927.PNG" width="250px" height="450px" />
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0928.PNG" width="250px" height="450px" />
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0929.PNG" width="250px" height="450px" />
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0930.PNG" width="250px" height="450px" />
+<img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0931.PNG" width="250px" height="450px" />
