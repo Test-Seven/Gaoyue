@@ -23,3 +23,11 @@
 <img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0958.PNG" width="250px" height="450px" />
 <img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0959.PNG" width="250px" height="450px" />
 <img src="https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/IMG_0960.PNG" width="250px" height="450px" />
+
+**4.作业四：keystore的路径**
+
+![Charles抓包](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/keystore.jpg)
+![Charles抓包](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/apk.jpg)
+![Charles抓包](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/jks.jpg)
+
+**疑问：在build——>generate signed key时，生成的后缀名为jks和keystore有什么区别呢？**
