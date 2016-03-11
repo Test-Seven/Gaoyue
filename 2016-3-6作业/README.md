@@ -11,3 +11,22 @@
 
 **作业二：用appt命令查看apk权限**
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/aapt%E6%9F%A5%E7%9C%8B%E6%9D%83%E9%99%90.jpg)
+
+**作业三：不同切入点编写monkey命令，并执行成功**
+<br>多点击：
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/touch1.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/touch2.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/touch3.jpg)
+<br>多应用切换：
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/appswitch1.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/appswitch2.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/appswitch3.jpg)
+<br>手机硬件按钮对于应用的效果:
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/syskeys1.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/syskeys2.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/syskeys3.jpg)
+
+**作业五：找到应用下面的数据文件并打开**
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/db1.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/db2.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/sqlite_db.jpg)
