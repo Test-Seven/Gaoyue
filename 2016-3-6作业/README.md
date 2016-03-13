@@ -31,6 +31,9 @@
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/db2.jpg)
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/sqlite_db.jpg)
 
+**作业六：monkey.js，运行结果截图**
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/monkeyjs.jpg)
+
 **作业七：安装ideviceinstaller，查看ios日志**
 <br>brew install ideviceinstaller,然后通过idevicesyslog查看
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/ios_log.jpg)
