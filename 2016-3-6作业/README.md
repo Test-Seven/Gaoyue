@@ -10,7 +10,7 @@
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/%E6%BA%90%E7%A0%81.jpg)
 
 **作业二：用appt命令查看apk权限**
-<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/aapt%E6%9F%A5%E7%9C%8B%E6%9D%83%E9%99%90.jpg)
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/permission.jpg)
 
 **作业三：不同切入点编写monkey命令，并执行成功**
 <br>多点击：
