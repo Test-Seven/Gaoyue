@@ -26,6 +26,14 @@
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/syskeys2.jpg)
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/syskeys3.jpg)
 
+**作业四：查找motion和touch源码的方法，以及monkey中实现点击的最基本方法是什么**
+<br>motion
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/motioncode.jpg)
+<br>touch
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/touchcode.jpg)
+<br>点击的最基本方法
+<br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/touchbasecode.jpg)
+
 **作业五：找到应用下面的数据文件并打开**
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/db1.jpg)
 <br>![](https://raw.githubusercontent.com/Test-Seven/Gaoyue/master/img/db2.jpg)
